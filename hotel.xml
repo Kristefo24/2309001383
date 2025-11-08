@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UFT-8"?>
+<hotels_Rwanda>
+    <fiveStar>
+        <name>Lake Kivu Serena Hotel</name>
+        <totalrooms>66</totalrooms>
+        <room>
+            <name>Superior Room</name>
+            <number>1</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$190</price>
+            </description>
+        </room>
+        <room>
+            <name>Family Room</name>
+            <number>2</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$190</price>
+            </description>
+        </room>
+        <room>
+            <name>Suites</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+            <url>https://www.serenahotels.com/lake-kivu</url>
+            <note>Very good option for a scenic stay outside the city.</note>
+    </fiveStar>
+    <fiveStar>
+        <name>Radisson Blu Hotel</name>
+        <totalrooms>66</totalrooms>
+        <room>
+            <name>Superior Room</name>
+            <number>209</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$194</price>
+            </description>
+        </room>
+        <room>
+            <name>Executive Room</name>
+            <number>2</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$203-246</price>
+            </description>
+        </room>
+        <room>
+            <name>Suites</name>
+            <number>68</number>
+            <description>
+                <size>699 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+            <url>radissonhotels.com/en-us/hotels/radisson-blu-convention-kigali</url>
+            <note>These rates may include breakfast or be non-refundable; always check details.</note>
+    </fiveStar>
+    <fiveStar>
+        <name>Kigali Marriott Hotel</name>
+        <totalrooms>66</totalrooms>
+        <room>
+            <name>Junior Suites</name>
+            <number>2</number>
+            <description>
+                <size>1033 ft²</size>
+                <price>US$194</price>
+            </description>
+        </room>
+        <room>
+            <name>Executive Room</name>
+            <number>2</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$203-246</price>
+            </description>
+        </room>
+        <room>
+            <name>King Room</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+            <url>https://www.marriott.com/en-us/hotels/kglmc-kigali-marriott-hotel/overview/</url>
+            <note>Very well suited for business travellers, large groups, or those wanting full amenities in Kigali.</note>
+    </fiveStar>
+
+    
+    <fourStar>
+        <name>Great Seasons Hotel</name>
+        <totalrooms>66</totalrooms>
+        <room>
+            <name>Standard Room</name>
+            <number>26</number>
+            <description>
+                <size>1033 ft²</size>
+                <price>US$200-250</price>
+            </description>
+        </room>
+        <room>
+            <name>Executive Room</name>
+            <number>2</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$203-246</price>
+            </description>
+        </room>
+        <room>
+            <name>King Room</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+            <url>http://greatseasonshotel.rw</url>
+            <note>If budget is more moderate but you still want good comfort, this is a viable option.</note>
+    </fourStar>
+    <fourStar>
+        <name>Hilltop Hotel</name>
+        <totalrooms>66</totalrooms>
+        <room>
+            <name>Double Rooms</name>
+            <number>28</number>
+            <description>
+                <size>1033 ft²</size>
+                <price>US$200-250</price>
+            </description>
+        </room>
+        <room>
+            <name>Single Rooms</name>
+            <number>10</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$203-246</price>
+            </description>
+        </room>
+        <room>
+            <name>Single Rooms</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+            <url>https://www.hilltophotelkigali.rw/</url>
+            <note>If budget is more moderate but you still want good comfort, this is a viable option.</note>
+    </fourStar>
+    <fourStar>
+        <name>Cormoran Lodge</name>
+        <totalrooms>66</totalrooms>
+        <room>
+            <name>Double Rooms</name>
+            <number>28</number>
+            <description>
+                <size>1033 ft²</size>
+                <price>US$200-250</price>
+            </description>
+        </room>
+        <room>
+            <name>Single Rooms</name>
+            <number>10</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$203-246</price>
+            </description>
+        </room>
+        <room>
+            <name>Single Rooms</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+            <url></url>
+            <note>If budget is more moderate but you still want good comfort, this is a viable option.</note>
+    </fourStar>
+
+    <threeStar>
+        <name>Tiloreza Volcanoes Ecolodge</name>
+        <totalrooms>66</totalrooms>
+        <room>
+            <name>Standard Rooms</name>
+            <number>28</number>
+            <description>
+                <size>1033 ft²</size>
+                <price>US$200-250</price>
+            </description>
+        </room>
+        <room>
+            <name>Standard Rooms</name>
+            <number>10</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$203-246</price>
+            </description>
+        </room>
+        <room>
+            <name>VIP Rooms</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+            <url></url>
+            <note>If budget is more moderate but you still want good comfort, this is a viable option.</note>
+    </threeStar>
+    <threeStar>
+        <name>Hill View Hotel (Lake Kivu)</name>
+        <totalrooms>66</totalrooms>
+        <room>
+            <name>Suite Rooms</name>
+            <number>28</number>
+            <description>
+                <size>1033 ft²</size>
+                <price>US$200-250</price>
+            </description>
+        </room>
+        <room>
+            <name>Family Rooms</name>
+            <number>10</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$203-246</price>
+            </description>
+        </room>
+        <room>
+            <name>Gold Rooms</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+        <room>
+            <name>Twin Rooms</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+            <url></url>
+            <note>If budget is more moderate but you still want good comfort, this is a viable option.</note>
+    </threeStar>
+
+    <twoStar>
+        <name>Legend Hotel</name>
+        <totalrooms>66</totalrooms>
+        <room>
+            <name>Suite Rooms</name>
+            <number>28</number>
+            <description>
+                <size>1033 ft²</size>
+                <price>US$60</price>
+            </description>
+        </room>
+        <room>
+            <name>Family Rooms</name>
+            <number>10</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$203-246</price>
+            </description>
+        </room>
+        <room>
+            <name>Gold Rooms</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+        <room>
+            <name>Twin Rooms</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+            <url></url>
+            <note>If budget is more moderate but you still want good comfort, this is a viable option.</note>
+    </twoStar>
+    <twoStar>
+        <name>Legend Hotel</name>
+        <totalrooms>66</totalrooms>
+        <room>
+            <name>Suite Rooms</name>
+            <number>28</number>
+            <description>
+                <size>1033 ft²</size>
+                <price>US$60</price>
+            </description>
+        </room>
+        <room>
+            <name>Family Rooms</name>
+            <number>10</number>
+            <description>
+                <size>25 m²</size>
+                <price>US$203-246</price>
+            </description>
+        </room>
+        <room>
+            <name>Gold Rooms</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+        <room>
+            <name>Twin Rooms</name>
+            <number>2</number>
+            <description>
+                <size>40 m²</size>
+                <price>US$330</price>
+            </description>
+        </room>
+            <url></url>
+            <note>If budget is more moderate but you still want good comfort, this is a viable option.</note>
+    </twoStar>
+</hotels_Rwanda>
+
+<!--
+    3 -> 5 stars, 3 -> 4 stars, 2 -> 3 stars, 2 -> 2 stars
+-->
